@@ -1,0 +1,72 @@
+Event Management Company Web Application Documentation
+Overview
+Even-tora: Turning Your Vision into Extraordinary Events
+Even-tora is an innovative event management platform designed to help users manage, organize, and stay informed about both upcoming and past events. Whether you're planning a small gathering or a large-scale event, Even-tora provides all the necessary tools to ensure a smooth experience.
+
+Upcoming Events Section
+The Upcoming Events section of the website showcases key events organized or highlighted by the Even-tora event management team. This section features an engaging card-based layout where each event is represented with an image, title, and description. Users can click the "See More" button to view detailed information about each event.
+
+Key Features
+
+Event Cards: Each event is presented as a card, with an image, a brief title, and a "See More" button that opens a detailed modal with full event information.
+Event Details: The modals contain in-depth descriptions about each event, including dates, locations, and additional background information.
+Images: Each event card features an image to give users a visual preview of the event.
+
+Upcoming Events: Displays a list of upcoming events with detailed information.
+
+Past Events: Users can explore events that have already occurred, showcasing the company's successful event management.
+
+About Us: Learn more about the mission, values, and history of Even-tora.
+
+Contact Us: Provides contact information for event inquiries, customer support, and business partnerships.
+
+Technologies Used
+
+HTML: The backbone of the website's structure.
+CSS: Used for styling the website and enhancing the user experience.
+JavaScript: Used for dynamic interaction such as event handling, animations, and managing content.
+Responsive Design: The layout is optimized for both mobile and desktop viewing.
+
+Set Up the Project
+
+Ensure that you have a code editor like Visual Studio Code installed.
+Open the even-tora project folder in your code editor.
+Run the Application Locally.
+Since this is a static website, open the index.html file in a browser to view the application.
+You can also use a local server for testing (e.g., live-server extension in VS Code).
+
+Dependencies
+No external libraries are required at the moment. The project is built using only HTML, CSS, and JavaScript.
+
+Usage Instructions
+
+Home: Displays the introductory content and a dynamic console-style text effect with the message “Turning Your Vision into Extraordinary Events”.
+Upcoming Events: Links to upcoming events which might feature dates, descriptions, and a registration or RSVP option.
+Past Events: View details of past events, possibly including images, attendee lists, and highlights.
+About Us: Gives a brief description of the company, its values, and what makes Even-tora stand out.
+Contact Us: A section to get in touch for event planning inquiries or customer service.
+
+Codebase Structure
+index.html: The main HTML file that contains the structure and content of the webpage.
+style.css: Contains the styles for the website to ensure it is visually appealing.
+script.js: Handles any JavaScript functionality, such as event handling and dynamic content updates.
+assets/: This folder contains images, fonts, or other media used in the website.
+
+Configuration and Customization
+Customization Options:
+
+Modify the style.css file to change the look and feel of the site (colors, fonts, layout).
+Update the index.html file to add new sections or edit existing ones.
+The console text effect can be customized by editing the JavaScript code in the script file.
+
+Environment Variables:
+No specific environment variables are required for this application as it is a simple static site.
+
+Deployment
+This application can be deployed on any static web hosting service such as:
+GitHub Pages: Simply push the project to a GitHub repository and enable GitHub Pages in the repository settings.
+
+Conclusion
+Even-tora is a simple yet powerful event management platform that offers a clean, easy-to-use interface for both users and developers.
+Its flexibility and easy-to-deploy nature make it an ideal choice for anyone looking to manage and showcase events online.
+Whether you're an event planner, a business, or a community organizer, Even-tora empowers you to create extraordinary event experiences.
